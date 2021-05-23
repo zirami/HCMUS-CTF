@@ -95,7 +95,7 @@ char name[1024]; // [esp+Ch] [ebp-40Ch] BYREF
 ```
 * Bank6 cho sẵn 1 món quà, địa chỉ stack: là nơi mình ghi shellcode
 * Tính offset là quá sức của mình, nên mình tạo 1 vùng đủ lớn bằng ` món quà địa chỉ `. :3
-* Return the shellcode. `(func scanf chặn 0x0...)`
+* Return the shellcode. `( note: func scanf chặn 0x0...)`
 
 ## SecretWeapon
 
