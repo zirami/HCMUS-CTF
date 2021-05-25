@@ -1,7 +1,9 @@
-# HCMUS-CTF
- 
-# SOLUTION 
+# Solution
+# [+] -=-=-=-=-=-=-=-=-=-=-=-= HCMUS-CTF 2021 =-=-=-=-=-=-=-=-=-=-=-=-
+# [-] .....................................................................PIS-concainit.................................................................
 
+
+# PIS-concainit.zirami
 
 ## MyBirthDay
 ### Sourcecode
@@ -164,7 +166,7 @@ char v1[20]; // [esp+0h] [ebp-18h] BYREF
 `>>> FLAG: HCMUS-CTF{Python_is_fun_somehow}`
 
 
-# WRITE-UP 3 thành viên còn lại.
+
 
 # PIS-concainit.hlong
 
