@@ -1,0 +1,3 @@
+Dotge: HCMUS-CTF{You_know_some_command_line_stuff}
+bank4: HCMUS-CTF{trungdeptrai}
+thechosenone: HCMUS-CTF{You_Can_4ttack_A3S!?!}
