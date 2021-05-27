@@ -4,7 +4,7 @@
 
 
 # PIS-concainit.zirami
-
+  
 ## MyBirthDay
 ### Sourcecode
 ```sh
@@ -174,7 +174,7 @@ char v1[20]; // [esp+0h] [ebp-18h] BYREF
 
 # PIS-concainit_MR
 
-## 1 Faded.
+## Faded.
 
 Faded description nhắc đến thông tin về việc gen file executable từ python code.
 Mình sẽ thử tìm và decompile từ file elf này thành python code.
@@ -182,7 +182,7 @@ Sử dụng utility pyi-archive_viewer của module python PyInstaller, giải m
 Thử cat strings file này thì mình xuất ra được flag
 `>>> FLAG:  HCMUS-CTF{Python_is_fun_somehow}`
 
-## 2. WeirdProtocol
+## WeirdProtocol
 
 Kiểm tra thông tin file WeirdProtocol với Detect It Easy thấy có file BINARY lạ trong phần resorces PE,
  Dump file này ra để kiểm tra thì đây là file exe 32bit.
@@ -204,6 +204,11 @@ Khi chạy thử với input client là chỗi hello, server chỉ trả về gi
 Thử chạy lại và mình lấy được flag của chương trình gửi từ server.
 
 `>>> FLAG: HCMUS-CTF{not_so_weird_hehexd}`
+
+## Androidrev
+
+link bài viết.
+`https://www.notion.so/HCMUS-CTF-2021-b967b6b0a8f54f3ca59a54f38470e5c5`
 
 # PIS-concainit.V
 
